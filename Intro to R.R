@@ -1,5 +1,5 @@
 # R script to accompany Intro to R
-# Copy for Luke Burns 2021
+# Copy for LukeBurns 2021
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
